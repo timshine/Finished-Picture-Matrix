@@ -11,6 +11,9 @@
  * The file is reduced to concentrate of the Lab15b Assignment only. 
  */
  
+/*This Lab was done by Timothy Shine
+ * 
+ * This is a test to try clone*/
  
  /////////////////////////////////////////////////////////////////////////////
  //
